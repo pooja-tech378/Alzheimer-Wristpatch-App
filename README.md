@@ -1,2 +1,3 @@
 # Alzheimer-Wristpatch-App
-Mobile app developed in Flutter for AI-assisted wrist patch for Alzheimer’s patients
+Project is currently under development (~70% complete). 
+Uploaded code includes core app functionalities and UI implemented using Flutter.
